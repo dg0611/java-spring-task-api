@@ -1,4 +1,4 @@
-# 📋 List API - Gerenciador de Tarefas
+# 📋 Java Spring Task API - Gerenciador de Tarefas
 
 Este é um projeto Spring Boot que fornece uma API REST para gerenciamento de tarefas, com autenticação baseada em JWT.
 
